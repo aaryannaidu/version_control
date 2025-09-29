@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is an implementation of a simplified version control system inspired by Git, built for the COL106 Data Structures and Algorithms course. The system manages versioned files with support for branching and historical inspection using custom implementations of Tree, HashMap, and Heap data structures.
+This is an implementation of a simplified version control system inspired by Git .The system manages versioned files with support for branching and historical inspection using custom implementations of Tree, HashMap, and Heap data structures.
 
 ## Features
 
@@ -36,7 +36,6 @@ assignment_1/
 ├── filesystem.cpp      # Main implementation file
 ├── compile.sh          # Compilation script
 ├── README.md          # This file
-└── COL_106_Long_Assignment_1.pdf  # Assignment specification
 ```
 
 ## Compilation
