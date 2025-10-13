@@ -188,12 +188,5 @@ EXIT
 - C++11 compatible compiler (g++, clang++)
 - Standard library headers: iostream, vector, string, ctime, sstream, algorithm
 
-## Notes
 
-- All data structures implemented from scratch as required (Tree, HashMap, Heap only)
-- No external data structures used - all analytics deduplication done with vectors
-- Interactive command-line interface as specified
-- Error handling implemented for all edge cases
-- Memory cleanup handled properly in destructors
-- Analytics commands properly deduplicate files and show each file only once with its latest information
 
