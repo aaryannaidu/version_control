@@ -29,14 +29,6 @@ This is an implementation of a simplified version control system inspired by Git
 - Used for tracking most recently modified files and largest version trees
 - Configurable comparison function
 
-## File Structure
-
-```
-assignment_1/
-├── filesystem.cpp      # Main implementation file
-├── compile.sh          # Compilation script
-├── README.md          # This file
-```
 
 ## Compilation
 
